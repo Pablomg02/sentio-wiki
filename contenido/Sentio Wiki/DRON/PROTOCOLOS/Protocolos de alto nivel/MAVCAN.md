@@ -1,0 +1,3 @@
+Adaptación del protocolo [[MAVLink]] para funcionar sobre el bus CAN. Permite que dispositivos internos del dron (como sensores, ESCs o módulos personalizados) se comuniquen usando mensajes MAVLink a través de una red CAN compartida.  
+Ofrece comunicación robusta, tolerante a fallos y más eficiente que [[UART]], ideal para drones complejos o con múltiples componentes inteligentes.  
+Alternativa a [[UAVCAN]] cuando se quiere mantener compatibilidad directa con el ecosistema [[MAVLink]].

@@ -1,0 +1,5 @@
+---
+aliases:
+  - Mobile SDK
+  - MSDK
+---

@@ -1,0 +1,3 @@
+[[Protocolo]] de comunicación inalámbrica de largo alcance y bajo consumo, ideal para entornos donde el ancho de banda es muy limitado.  
+Se puede usar para transmitir datos MAVLink a muy baja frecuencia (telemetría básica o comandos simples), especialmente en drones que operan en zonas remotas.  
+No es apto para control en tiempo real, pero sí para mantener conexión persistente en misiones de larga distancia.
