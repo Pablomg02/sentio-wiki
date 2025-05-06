@@ -1,4 +1,7 @@
 Este repositorio está basado en [Obsidian](https://obsidian.md/) y tiene como objetivo recopilar información útil para desarrollar misiones autónomas de vuelo, desde el desarrollo hasta el despliegue. 
+
+El repositorio **NO** está pensado para ser una guía extensa de todos los conceptos, sino para poder conocer diferentes tecnologías, viajar entre diferentes artículos y poder adquirir un conocimiento general del tema deseado. Una vez lo hayas hecho, podrás acceder a artículos de referencia que lo expliquen en mayor detalle!
+
 Si te interesa la Inteligencia Artificial que se encuentra detrás de estas misiones, puedes visitar mi repositorio [Learning Reinforcement](https://publish.obsidian.md/learning-reinforcement/Inicio), donde comparto contenido acerca del Reinforcement Learning. También puedes colaborar!
 
 Si estás interesado en conocer más información o compartir ideas, [contáctame](mailto:pablo.magarinos@outlook.com) :).

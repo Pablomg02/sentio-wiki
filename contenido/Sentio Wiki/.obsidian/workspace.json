@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosas por escribir.md",
+                "file": "DRON/PROTOCOLOS/Protocolos de comunicacion/gRPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosas por escribir"
+              "title": "gRPC"
             }
           }
         ]
@@ -167,7 +167,17 @@
   },
   "active": "2f4e2edf016e6ad9",
   "lastOpenFiles": [
-    "DRON/MIDDLEWARE/DDS.md",
+    "DRON/COMUNICACION/Request-Response.md",
+    "DRON/COMUNICACION/Publish-Suscribe.md",
+    "DRON/COMUNICACION/QoS.md",
+    "Sin título.md",
+    "INICIO.md",
+    "DRON/COMUNICACION/Tipos de comunicacion",
+    "DRON/PROTOCOLOS/Protocolos de comunicacion/WebSockets.md",
+    "DRON/PROTOCOLOS/Protocolos de comunicacion/gRPC.md",
+    "DRON/PROTOCOLOS/Protocolos de comunicacion/DDS.md",
+    "DRON/PROTOCOLOS/Protocolos de comunicacion/MQTT.md",
+    "DRON/PROTOCOLOS/Protocolos de comunicacion/Message Broker.md",
     "Cosas por escribir.md",
     "DRON/PROTOCOLOS/Protocolos de transporte/Serial/CAN.md",
     "EJEMPLOS",
@@ -177,31 +187,21 @@
     "DRON/PROTOCOLOS/Protocolos de alto nivel/MAVLink Router.md",
     "DRON/PROTOCOLOS/Protocolos de alto nivel/MAVLink.md",
     "DRON/PROTOCOLOS/Protocolos de alto nivel/MAVCAN.md",
-    "DRON/COMUNICACION/Unicast.md",
-    "DRON/COMUNICACION/Publish-Suscribe.md",
-    "DRON/COMUNICACION/Multicast.md",
-    "DRON/COMUNICACION/Broadcast.md",
-    "DRON/COMUNICACION/Anycast.md",
+    "DRON/COMUNICACION/Tipos de comunicacion/Unicast.md",
+    "DRON/COMUNICACION/Tipos de comunicacion/Multicast.md",
+    "DRON/COMUNICACION/Tipos de comunicacion/Broadcast.md",
+    "DRON/COMUNICACION/Tipos de comunicacion/Anycast.md",
     "DRON/MIDDLEWARE/ROS 2.md",
-    "DRON/MIDDLEWARE/MQTT.md",
-    "DRON/MIDDLEWARE",
+    "DRON/PROTOCOLOS/Protocolos de comunicacion",
     "DRON/PROTOCOLOS/SDKs y APIs",
     "DRON/PROTOCOLOS/SDKs y APIs/MAVROS.md",
-    "DRON/MIDDLEWARE/Message Broker.md",
     "DRON/COMUNICACION",
     "DRON/PROTOCOLOS/Protocolos de alto nivel/Middleware/Sin título.md",
     "DRON/PROTOCOLOS/Protocolos de alto nivel/Middleware",
     "DRON/PROTOCOLOS/SDKs y APIs/MAVSDK.md",
-    "DRON/PROTOCOLOS/SDKs y APIs/DJI Mobile SDK.md",
-    "DRON/PROTOCOLOS/Protocolos.md",
     "DRON/PROTOCOLOS/Protocolos de transporte/Red IP",
     "DRON/PROTOCOLOS/Protocolos de transporte",
-    "DRON/PROTOCOLOS/Protocolos de transporte/Serial/UART.md",
     "DRON/PROTOCOLOS/Protocolos de transporte/Serial",
-    "DRON/PROTOCOLOS/Protocolos de transporte/Inalambrico",
-    "DRON/PROTOCOLOS/Protocolos de alto nivel",
-    "DESARROLLO/Google Remote Procedure Call (gRPC).md",
-    "SIMULADORES/JSBSim.md",
-    "SIMULADORES/AirSim.md"
+    "DRON/PROTOCOLOS/Protocolos de transporte/Inalambrico"
   ]
 }

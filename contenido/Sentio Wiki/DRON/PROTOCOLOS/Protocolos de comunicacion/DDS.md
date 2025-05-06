@@ -1,0 +1,1 @@
+Protocolo de tipo [[Publish-Suscribe|pub/sub]] elegido por ROS 2 para entornos donde importa la [[QoS]] y el tiempo real.

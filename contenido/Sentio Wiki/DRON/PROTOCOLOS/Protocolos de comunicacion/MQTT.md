@@ -1,0 +1,1 @@
+Protocolo de tipo [[Publish-Suscribe|pub/sub]] ligero, sobre [[TCP]]. Muy utilizado en IoT y drones para telemetría.
